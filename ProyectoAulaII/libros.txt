@@ -1,0 +1,2 @@
+2;2;2;false;l;asg
+123;LUNA DE PLUTON;DROSS;false;Canada;KOL

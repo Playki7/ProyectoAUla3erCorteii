@@ -1,0 +1,4 @@
+12;12;mareigua
+2;Juan;1222
+12;Juan;1234
+123;juan;234rr
